@@ -1,6 +1,8 @@
 Workshop: Artificial neural networks in R with Keras and TensorFlow
 ================
 
+By [Leon Eyrich Jessen](https://leonjessen.github.io/)
+
 This is the GitHub repository for the Workshop: “Artificial neural
 networks in R with Keras and TensorFlow” at [The second annual R/Pharma
 conference held August 21, 22, and 23, 2019, Harvard University,
