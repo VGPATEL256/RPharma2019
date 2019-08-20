@@ -1,0 +1,36 @@
+---
+title: "Introduction to Keras in R"
+subtitle: "The Second Annual R/Pharma Conference"
+author: "Leon Eyrich Jessen"
+date: "August 21st 2019"
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library('tidyverse')
+```
+
+## Why are Artificial Neural Networks so powerful?
+
+- ANNs capture context dependence!
+    - I.e. the “meaning” of each variable depends not only on its observed value, but also on the context in which it was observed
+    
+    - This is particular useful in biology, where interaction effects are common
+
+```{r, out.width = "600px", fig.align="center"}
+knitr::include_graphics("img/HUMAN.png")
+```
+
+- They are universal Approximators
+    - Using an ANN we can approximate function
+    - Small exercise using [TensorFlow Playground](https://playground.tensorflow.org)
+
+## Before we go further...
+
+- Let us have a look at the concept of an universal approximator
+
+- Please go to exercise on TensorFlow Playground

@@ -1,0 +1,28 @@
+---
+title: "Session 1 Summary and Q&A"
+subtitle: "The Second Annual R/Pharma Conference"
+author: "Leon Eyrich Jessen"
+date: "August 21st 2019"
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Summary
+
+Take home messages
+
+- ANNs can capture higher order correlations
+
+- ANNs are universal approximators
+
+- Keras is a high level API aiming at maximising modeling exploration by minimising model creation effort
+
+- _"Being able to go from idea to result with the least possible delay is key to doing good research"_ (F. Chollet)
+
+# Questions so far?
