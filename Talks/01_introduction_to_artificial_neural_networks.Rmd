@@ -20,9 +20,7 @@ library('tidyverse')
 
 - The key here being _introduce_, we have limited time, so you will mainly be working with code I created
 
-- My intention is then to leave the GitHub repo as is, so you can return and revisit and expand my code
-
-- We will be working on instances setup by RStudio, so please go to [https://rstd.io/class](https://rstd.io/class)
+- My intention is then to leave the GitHub repo as is, so you can return and revisit and expand/modify my code: [https://github.com/leonjessen/RPharma2019](https://github.com/leonjessen/RPharma2019)
 
 - The learning objectives are (What you can expect to able to upon workshop conclusion):
   - Conceptually describe
@@ -274,3 +272,7 @@ preds %>%
 - At the exercises, I will strongly advice to pair up two-and-two, so you can discuss
 
 - Internalising knowledge is much more effecient, when you are forced to put concepts into words
+
+- We will be working on instances setup by RStudio, so please go to [https://rstd.io/class](https://rstd.io/class) and enter the class room identifier `rpharmatensorflow`
+
+- GitHub repo for this workshop is: [https://github.com/leonjessen/RPharma2019](https://github.com/leonjessen/RPharma2019)
