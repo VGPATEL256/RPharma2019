@@ -44,7 +44,7 @@ building inital hands on experience. The schedule is as follows:
   - 09.15 - 09.45 [Exercise: Hello Keras
     (Classification)](Exercises/03_hello_keras.md)
 
-  - 09.45 - 10.00 [Session 1 Summary and
+  - 09.45 - 10.00 [Brief talk: Session 1 Summary and
     Q\&A](Talks/04_session_1_summary.html)
 
   - 10.00 - 10.20 Coffee Break
@@ -58,7 +58,7 @@ building inital hands on experience. The schedule is as follows:
   - 11.15 - 11.45 [Exercise: Deep Learning for Cancer
     Immunotherapy](Exercises/05_deep_learning_for_cancer_immunotherapy.md)
 
-  - 11.45 - 12.00 [Session 2 Summary and
+  - 11.45 - 12.00 [Brief talk: Session 2 Summary and
     Q\&A](Talks/06_session_2_summary.html)
 
 ## Additional Resources
