@@ -2,7 +2,7 @@ Exercise - Prototyping an Artificial Neural Network in R
 ================
 
 You will find a simple Artifical Neural Network implemented in base R
-[here](https://github.com/leonjessen/RPharma2019/blob/master/R/ann_prototype.R)
+[here](https://github.com/leonjessen/RPharma2019/blob/master/R/01_ann_prototype.R)
 (This script is also in the directory `/R` of your RStudio session)
 
 *Your task is to, make the script run and find and tune the

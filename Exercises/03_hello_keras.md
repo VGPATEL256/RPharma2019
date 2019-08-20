@@ -4,7 +4,8 @@ Hello Keras - A Simple Artificial Neural Network using Keras
 ## Task
 
 *Copy relevant code from below to
-[R/02\_hello\_keras.R](R/02_hello_keras.R) and create a working model*
+[R/02\_hello\_keras.R](https://github.com/leonjessen/RPharma2019/blob/master/R/02_hello_keras.R)
+and create a working model*
 
 Note how this is now a 3-class classifier and we are evaluating the
 predictive performance of the model on left out data.
@@ -203,7 +204,7 @@ perf
 ```
 
     ## $loss
-    ## [1] 0.3285116
+    ## [1] 0.3924295
     ## 
     ## $acc
     ## [1] 0.9767442

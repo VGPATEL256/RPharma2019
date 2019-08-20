@@ -10,7 +10,7 @@ set.seed(265509)
 
 ## Task
 
-_Copy relevant code from below to [R/02_hello_keras.R](R/02_hello_keras.R) and create a working model_
+_Copy relevant code from below to [R/02_hello_keras.R](https://github.com/leonjessen/RPharma2019/blob/master/R/02_hello_keras.R) and create a working model_
 
 Note how this is now a 3-class classifier and we are evaluating the predictive performance of the model on left out data.
 
