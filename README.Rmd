@@ -28,7 +28,7 @@ _(Please note the html preview currently seem not be functioning. All slides are
 - 08.00 - 08.15 [Brief talk: Introduction to Artificial Neural Networks](http://htmlpreview.github.io/?https://github.com/leonjessen/RPharma2019/blob/master/Talks/01_introduction_to_artificial_neural_networks.html)
 - 08.15 - 08.40 [Exercise: Prototyping an ANN in R](Exercises/01_ann_prototype.md)
 - 08.40 - 08.45 [Brief talk: Introduction to TensorFlow/Keras in R 1](http://htmlpreview.github.io/?https://github.com/leonjessen/RPharma2019/blob/master/Talks/02_introduction_to_keras_1.html)
-- 08.40 - 09.00 [Exercise: TensorFlow Playground](Exercises/02_tensorflow_playground.md)
+- 08.45 - 09.00 [Exercise: TensorFlow Playground](Exercises/02_tensorflow_playground.md)
 - 09.00 - 09.15 [Brief talk: Introduction to TensorFlow/Keras in R 2](http://htmlpreview.github.io/?https://github.com/leonjessen/RPharma2019/blob/master/Talks/03_introduction_to_keras_2.html)
 - 09.15 - 09.45 [Exercise: Hello Keras (Classification)](Exercises/03_hello_keras.md)
 - 09.45 - 10.00 [Brief talk: Session 1 Summary and Q&A](http://htmlpreview.github.io/?https://github.com/leonjessen/RPharma2019/blob/master/Talks/04_session_1_summary.html)

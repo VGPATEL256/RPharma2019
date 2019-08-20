@@ -41,7 +41,7 @@ on the .html file and choose ‘View in Web Browser’)*
   - 08.40 - 08.45 [Brief talk: Introduction to TensorFlow/Keras in
     R 1](http://htmlpreview.github.io/?https://github.com/leonjessen/RPharma2019/blob/master/Talks/02_introduction_to_keras_1.html)
 
-  - 08.40 - 09.00 [Exercise: TensorFlow
+  - 08.45 - 09.00 [Exercise: TensorFlow
     Playground](Exercises/02_tensorflow_playground.md)
 
   - 09.00 - 09.15 [Brief talk: Introduction to TensorFlow/Keras in
