@@ -55,4 +55,12 @@ Sources: [keras.io](https://keras.io/), [tensorflow.rstudio.com](https://tensorf
 _Source: [Machine Learning with R and TensorFlow 32:27
 ](https://www.youtube.com/watch?v=atiYXm7JZv0)_
 
-# Time for exercises!
+## My take
+
+- Personally, I believe that the paramount factor for a succesful technology and for that technology to have a societal impact, is availability
+
+- With TensorFlow and Keras, deep learning has become available
+
+- and that, I think has played a major role in the rapid development and application of DL the past ~5 years
+
+- Machine learning / deep learning / artificial intelligence has played, is playing and will continue to play a major role in how we are digitally transforming our society within all sectors
