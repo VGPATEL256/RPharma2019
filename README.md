@@ -6,7 +6,38 @@ By [Leon Eyrich Jessen](https://leonjessen.github.io/)
 This is the GitHub repository for the Workshop: “Artificial neural
 networks in R with Keras and TensorFlow” at [The second annual R/Pharma
 conference held August 21, 22, and 23, 2019, Harvard University,
-Cambridge, US](http://rinpharma.com/)
+Cambridge,
+US](http://rinpharma.com/)
+
+## Getting started - Complete the following 10 easy steps, to be able to run the workshop
+
+1.  Go to <https://rstudio.cloud/> (Create an account if you do not have
+    one)
+2.  Find the button “New Project” and click the arrow down symbol
+3.  Choose “New Project from Git Repo”
+4.  In the “URL of your Git repository”, enter
+    <https://github.com/leonjessen/RPharma2019> and click “OK”
+5.  “Deploying Project” will now appear and after some time a new
+    session is loaded
+6.  Name your project in the upper left corner, where it says “Your
+    Workspace / Untitled Project \<- Click to name you project”
+7.  In the lower right pane, you will now see all the workshop materials
+8.  Run the following commands in the console (left pane) to setup
+    software environment:
+
+<!-- end list -->
+
+``` r
+install.packages("tidyverse")
+install.packages("devtools")
+devtools::install_github("rstudio/keras")
+library(keras)
+install_keras()
+```
+
+9.  Return to <https://github.com/leonjessen/RPharma2019>, find and
+    follow “Schedule Wednesday August 21st 2019”
+10. Have fun\!
 
 ## Introduction
 
