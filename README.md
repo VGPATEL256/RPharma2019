@@ -1,13 +1,25 @@
 Workshop: Artificial neural networks in R with Keras and TensorFlow
 ================
 
-By [Leon Eyrich Jessen](https://leonjessen.github.io/)
+## Interested in a walk-through of this workshop?
+
+Please feel free to [get in
+touch](https://nordicdatalab.dk/en/#contact). This workshop was created
+and hosted by [Leon Eyrich Jessen](https://twitter.com/jessenleon).
+
+## Introduction
 
 This is the GitHub repository for the Workshop: “Artificial neural
 networks in R with Keras and TensorFlow” at [The second annual R/Pharma
 conference held August 21, 22, and 23, 2019, Harvard University,
-Cambridge,
-US](http://rinpharma.com/)
+Cambridge, US](http://rinpharma.com/)
+
+Everything you need to know can be found at the RStudio page on [R
+Interface to TensorFlow](https://tensorflow.rstudio.com/). Here you can
+also find more on [keras](https://tensorflow.rstudio.com/keras/), with
+[examples](https://tensorflow.rstudio.com/keras/articles/examples/) and
+[invited blog
+posts](https://blogs.rstudio.com/tensorflow/)
 
 ## Getting started - Complete the following 10 easy steps, to be able to run the workshop
 
@@ -38,19 +50,6 @@ install_keras()
 9.  Return to <https://github.com/leonjessen/RPharma2019>, find and
     follow “Schedule Wednesday August 21st 2019”
 10. Have fun\!
-
-## Introduction
-
-Everything you need to know can be found at the RStudio page on [R
-Interface to TensorFlow](https://tensorflow.rstudio.com/). Here you can
-also find more on [keras](https://tensorflow.rstudio.com/keras/), with
-[examples](https://tensorflow.rstudio.com/keras/articles/examples/) and
-[invited blog posts](https://blogs.rstudio.com/tensorflow/)
-
-## Getting started
-
-Keras installation instructions can be found
-[here](https://tensorflow.rstudio.com/keras/#getting-started)
 
 ## Schedule Wednesday August 21st 2019
 
