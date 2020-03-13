@@ -27,7 +27,8 @@ posts](https://blogs.rstudio.com/tensorflow/)
     session is loaded
 6.  Name your project in the upper left corner, where it says “Your
     Workspace / Untitled Project \<- Click to name you project”
-7.  In the lower right pane, you will now see all the workshop materials
+7.  In the lower right pane (`Files`), you will now see all the workshop
+    materials, i.e. files for talks and exercises
 8.  Locate and source the script `R/00_setup.R`, this will install all
     the nessesary libraries. *Note: When prompted for installing
     miniconda, just type `Y` and hit the return key*
@@ -43,8 +44,8 @@ series of interchanging brief talks and longer exercises aiming at
 building inital hands on experience. The schedule is as follows:
 
 *(Please note the html preview currently seem not be functioning. All
-slides are available under ‘Talks’ in your RStudio session. Left-click
-on the .html file and choose ‘View in Web Browser’)*
+slides are available under ‘Talks’ in your RStudio session `Files` pane.
+Left-click on the .html file and choose ‘View in Web Browser’)*
 
   - (08.40 - 08.55) [Brief talk: Introduction to Artificial Neural
     Networks](http://htmlpreview.github.io/?https://github.com/leonjessen/RPharma2019/blob/master/Talks/01_introduction_to_artificial_neural_networks.html)
