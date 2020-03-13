@@ -1,12 +1,6 @@
 Workshop: Artificial neural networks in R with Keras and TensorFlow
 ================
 
-## Interested in a walk-through of this workshop?
-
-Please feel free to [get in
-touch](https://nordicdatalab.dk/en/#contact). This workshop was created
-and hosted by [Leon Eyrich Jessen](https://twitter.com/jessenleon).
-
 ## Introduction
 
 This is the GitHub repository for the Workshop: “Artificial neural
@@ -34,19 +28,9 @@ posts](https://blogs.rstudio.com/tensorflow/)
 6.  Name your project in the upper left corner, where it says “Your
     Workspace / Untitled Project \<- Click to name you project”
 7.  In the lower right pane, you will now see all the workshop materials
-8.  Run the following commands in the console (left pane) to setup
-    software environment:
-
-<!-- end list -->
-
-``` r
-install.packages("tidyverse")
-install.packages("devtools")
-devtools::install_github("rstudio/keras")
-library(keras)
-install_keras()
-```
-
+8.  Locate and source the script `R/00_setup.R`, this will install all
+    the nessesary libraries. *Note: When prompted for installing
+    miniconda, just type `Y` and hit the return key*
 9.  Return to <https://github.com/leonjessen/RPharma2019>, find and
     follow “Schedule Wednesday August 21st 2019”
 10. Have fun\!
